@@ -34,7 +34,7 @@ standard请参考：https://github.com/standard/standard    or
 
 https://standardjs.com/rules-zhcn.html
 
-本模板采用的是eslint+standard的校验规则。standard的校验规则相对于airbnb来说更松一下。**请所有developer严格遵守此规范进行开发。**
+本模板采用的是eslint+standard的校验规则。standard的校验规则相对于airbnb来说更松一些。
 
 ## 二、模板目录结构和文件
 
